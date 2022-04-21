@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\MathComparisons3\MathComparisons3\bin\Debug\MathComparisons3.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\MathComparisons3\MathComparisons3\bin\Debug\MathComparisons3.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\MathComparisons3\MathComparisons3\bin\Debug\MathComparisons3.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\MathComparisons3\MathComparisons3\obj\Debug\MathComparisons3.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\MathComparisons3\MathComparisons3\obj\Debug\MathComparisons3.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\MathComparisons3\MathComparisons3\obj\Debug\MathComparisons3.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\MathComparisons3\MathComparisons3\obj\Debug\MathComparisons3.pdb
