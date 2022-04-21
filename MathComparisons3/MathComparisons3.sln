@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathandComparisons2", "MathandComparisons2\MathandComparisons2.csproj", "{C6995001-81A7-4F8D-ABFE-B3A44A9B7747}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathComparisons3", "MathComparisons3\MathComparisons3.csproj", "{0BF722CF-E3F9-4B0D-A7E5-48F5A37350D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6995001-81A7-4F8D-ABFE-B3A44A9B7747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6995001-81A7-4F8D-ABFE-B3A44A9B7747}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6995001-81A7-4F8D-ABFE-B3A44A9B7747}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6995001-81A7-4F8D-ABFE-B3A44A9B7747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF722CF-E3F9-4B0D-A7E5-48F5A37350D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF722CF-E3F9-4B0D-A7E5-48F5A37350D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF722CF-E3F9-4B0D-A7E5-48F5A37350D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF722CF-E3F9-4B0D-A7E5-48F5A37350D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3EDD731E-67E8-4D24-BFE1-1D43B4C188DB}
+		SolutionGuid = {AAA9732B-74A8-4584-95D5-B295FF61BB61}
 	EndGlobalSection
 EndGlobal

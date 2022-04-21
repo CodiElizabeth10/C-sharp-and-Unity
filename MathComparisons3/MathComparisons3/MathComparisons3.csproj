@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{18C1E3C5-4D52-4E38-AC12-3AD603DC9754}</ProjectGuid>
+    <ProjectGuid>{0BF722CF-E3F9-4B0D-A7E5-48F5A37350D0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MathAndComparisonsOperatorsASSIGNMENT</RootNamespace>
-    <AssemblyName>MathAndComparisonsOperatorsASSIGNMENT</AssemblyName>
+    <RootNamespace>MathComparisons3</RootNamespace>
+    <AssemblyName>MathComparisons3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
