@@ -29,11 +29,11 @@ namespace MathAndComparisonsOperatorsASSIGNMENT
 
 
             Console.WriteLine("Annual salary of Person 1:");
-            int product = hourlyRate * hoursWeek;
+            int product = 15 * 2080;
             Console.WriteLine(product);
 
             Console.WriteLine("Annual salary of Person 2");
-            int product1 = hourlyWage * weeklyHours;
+            int product1 = 20 * 2080;
             Console.WriteLine(product1);
             
 

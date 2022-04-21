@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\Boolean Logic\Boolean Logic\bin\Debug\Boolean Logic.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\Boolean Logic\Boolean Logic\bin\Debug\Boolean Logic.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Boolean Logic\Boolean Logic\bin\Debug\Boolean Logic.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\Boolean Logic\Boolean Logic\obj\Debug\Boolean Logic.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\Boolean Logic\Boolean Logic\obj\Debug\Boolean Logic.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\Boolean Logic\Boolean Logic\obj\Debug\Boolean Logic.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Boolean Logic\Boolean Logic\obj\Debug\Boolean Logic.pdb
