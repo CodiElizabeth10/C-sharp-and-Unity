@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\DailyReport3\DailyReport3\bin\Debug\DailyReport3.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\DailyReport3\DailyReport3\bin\Debug\DailyReport3.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\DailyReport3\DailyReport3\bin\Debug\DailyReport3.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\DailyReport3\DailyReport3\obj\Debug\DailyReport3.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\DailyReport3\DailyReport3\obj\Debug\DailyReport3.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\DailyReport3\DailyReport3\obj\Debug\DailyReport3.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\DailyReport3\DailyReport3\obj\Debug\DailyReport3.pdb
