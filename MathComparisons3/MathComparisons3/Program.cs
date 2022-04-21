@@ -11,37 +11,34 @@ namespace MathAndComparisonsOperatorsASSIGNMENT
         static void Main(string[] args)
         {
             Console.WriteLine("Anonymous Income Comparison Program");
+
             Console.WriteLine("Person 1");
             Console.WriteLine("Hourly Rate?");
-            int hourlyRate = 15;
-            Console.WriteLine(hourlyRate);
+            int hourlyRate = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hours Worked Per Week?");
-            int hoursWeek = 40;
-            Console.WriteLine(hoursWeek);
+            int hoursWeek = Convert.ToInt32(Console.ReadLine());
 
 
 
             Console.WriteLine("Person 2");
             Console.WriteLine("Hourly Rate?");
-            int hourlyWage = 20;
-            Console.WriteLine(hourlyWage);
+            int hourlyWage = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hours Worked Per Week?");
-            int weeklyHours = 40;
-            Console.WriteLine(weeklyHours);
+            int weeklyHours = Convert.ToInt32(Console.ReadLine());
 
 
 
             Console.WriteLine("Annual salary of Person 1:");
-            int product = 15 * 2080;
+            int product = hourlyRate * hoursWeek;
             Console.WriteLine(product);
 
             Console.WriteLine("Annual salary of Person 2");
-            int product1 = 20 * 2080;
+            int product1 = hourlyWage * weeklyHours;
             Console.WriteLine(product1);
             
 
-            int personOne = 31200;
-            int personTwo = 41600;
+            int personOne = product;
+            int personTwo = product1;
 
             bool makesMore = personOne > personTwo;
             Console.WriteLine("Does Person 1 make more money than Person 2?");

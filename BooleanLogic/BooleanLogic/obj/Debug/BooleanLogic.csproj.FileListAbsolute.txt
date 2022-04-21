@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.pdb
