@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\codif\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\codif\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\codif\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\codif\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
