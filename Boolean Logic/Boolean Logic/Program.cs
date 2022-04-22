@@ -13,17 +13,14 @@ namespace Boolean_Logic
             Console.WriteLine("What is your age?");
             int yourAge = Convert.ToInt32(Console.ReadLine());
             Console.ReadLine();
-            Console.WriteLine("Have you ever had a DUI?");
-            string yourDuis = Console.ReadLine();
+            Console.WriteLine("Have you ever had a DUI? Please answer true/false.");
+            bool yourDuis = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("How many speeding tickets do you have?");
             int yourTickets = Convert.ToInt32(Console.ReadLine());
             Console.ReadLine();
 
-            int applicantAge = 18;
-            bool applicantDui = false;
-            int applicantTickets = 3;
 
-            bool isQualified = (applicantAge >= 18 && !applicantDui && applicantTickets <= 3);
+            bool isQualified = (yourAge >= 18 && !yourDuis && yourTickets <= 3);
             Console.WriteLine(isQualified);
             Console.ReadLine();
 
@@ -32,4 +29,4 @@ namespace Boolean_Logic
         }
     }
     }
-}
+
