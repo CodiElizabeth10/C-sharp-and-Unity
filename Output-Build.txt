@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Practice Challenges, Configuration: Debug Any CPU ------
+1>C:\Users\codif\source\repos\Practice Challenges\Practice Challenges\Program.cs(26,14,26,14): error CS1513: } expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
