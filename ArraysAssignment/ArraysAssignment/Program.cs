@@ -10,6 +10,8 @@ namespace ArraysAssignment
     {
         static void Main(string[] args)
         {
+            //LIST OF STRINGS
+
             List<string> intList = new List<string>();
             intList.Add("May");
             intList.Add("June");
@@ -30,6 +32,7 @@ namespace ArraysAssignment
 
 
             //ARRAY OF INTEGERS
+
             //int[] intArray = { 100, 200, 300, 400 };
             //Console.WriteLine("Please enter an index from 0 to 3:");
             //int userIndex = Convert.ToInt32(Console.ReadLine());
@@ -44,7 +47,8 @@ namespace ArraysAssignment
             //Console.ReadLine();
 
 
-            ////ONE DIMENSIONAL ARRAY OF STRINGS
+            //ONE DIMENSIONAL ARRAY OF STRINGS
+
             //string[] strArray = { "Fox", "Bear", "Dolphin", "Wolf" };
             //Console.WriteLine("Please enter an index from 0 to 3:");
             //int userIndex = Convert.ToInt32(Console.ReadLine());
