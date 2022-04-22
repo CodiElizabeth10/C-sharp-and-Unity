@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loops1\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loops1\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loops1\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loops1\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loops1\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loops1\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loops1\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb

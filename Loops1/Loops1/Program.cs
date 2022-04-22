@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Loopa
+namespace Loops
 {
     class Program
     {
@@ -54,7 +54,7 @@ namespace Loopa
                         break;
                     default:
                         Console.WriteLine("lol no.");
-                        Console.WriteLine("Guess a number?");
+                        Console.WriteLine("Guess another age?");
                         number = Convert.ToInt32(Console.ReadLine());
                         break;
 
