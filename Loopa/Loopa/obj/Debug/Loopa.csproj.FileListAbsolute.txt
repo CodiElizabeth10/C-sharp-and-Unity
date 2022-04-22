@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loopa\Loopa\bin\Debug\Loopa.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loopa\Loopa\bin\Debug\Loopa.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loopa\Loopa\bin\Debug\Loopa.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loopa\Loopa\obj\Debug\Loopa.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loopa\Loopa\obj\Debug\Loopa.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loopa\Loopa\obj\Debug\Loopa.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Loopa\Loopa\obj\Debug\Loopa.pdb
