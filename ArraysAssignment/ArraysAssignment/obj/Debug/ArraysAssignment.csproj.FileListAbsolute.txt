@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\ArraysAssignment\ArraysAssignment\bin\Debug\ArraysAssignment.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\ArraysAssignment\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.AssemblyReference.cache
