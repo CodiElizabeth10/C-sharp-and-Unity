@@ -10,69 +10,58 @@ namespace ArraysAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is your favorite summer month?");
-            string[] summerMonths = { "June", "July", "August" };
+            List<string> intList = new List<string>();
+            intList.Add("May");
+            intList.Add("June");
+            intList.Add("July");
+            intList.Add("August");
+            Console.WriteLine("Please enter an index from 0 to 3:");
+            int userIndex = Convert.ToInt32(Console.ReadLine());
+            if (userIndex >= 0 && userIndex <= 3)
+            {
+                Console.WriteLine(intList[userIndex]);
+            }
+            else
+            {
+                Console.WriteLine("Sorry, invalid index has been entered.");
+            }
             Console.ReadLine();
 
-            Console.WriteLine(summerMonths[0]);
-            string choseJun = Console.ReadLine();
-            Console.WriteLine("You chose, " + choseJun);
-            Console.ReadLine();
 
-            Console.WriteLine(summerMonths[1]);
-            string choseJul = Console.ReadLine();
-            Console.WriteLine("You chose, " + choseJul);
-            Console.ReadLine();
 
-            Console.WriteLine(summerMonths[2]);
-            string choseAug = Console.ReadLine();
-            Console.WriteLine("You chose, " + choseAug);
-            Console.ReadLine();
+            //ARRAY OF INTEGERS
+            //int[] intArray = { 100, 200, 300, 400 };
+            //Console.WriteLine("Please enter an index from 0 to 3:");
+            //int userIndex = Convert.ToInt32(Console.ReadLine());
+            //if (userIndex >= 0 && userIndex <= 3)
+            //{
+            //    Console.WriteLine(intArray[userIndex]);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Sorry, invalid index has been entered.");
+            //}
+            //Console.ReadLine();
+
+
+            ////ONE DIMENSIONAL ARRAY OF STRINGS
+            //string[] strArray = { "Fox", "Bear", "Dolphin", "Wolf" };
+            //Console.WriteLine("Please enter an index from 0 to 3:");
+            //int userIndex = Convert.ToInt32(Console.ReadLine());
+            //if (userIndex >= 0 && userIndex <= 3)
+            //{
+            //    Console.WriteLine(strArray[userIndex]);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Sorry, invalid index has been entered.");
+            //}
+            //Console.ReadLine();
         }
     }
 }
 
 
 
-            //ARRAY OF INTEGERS
-            //{
-            //        Console.WriteLine("Select a number:");
-            //        int number = Convert.ToInt32(Console.ReadLine());
-            //        int[] numArray = new int[] { 100, 200, 110, 2000, };
-
-
-//        Console.WriteLine(numArray[0]);
-//        Console.WriteLine("You chose " + numArray[0]);
-//        Console.WriteLine(numArray[1]);
-//        Console.WriteLine("You chose " + numArray[1]);
-//        Console.WriteLine(numArray[2]);
-//        Console.WriteLine("You chose " + numArray[2]);
-//        Console.WriteLine(numArray[3]);
-//        Console.WriteLine("You chose " + numArray[3]);
-//        Console.ReadLine();
-//    }
-//}
-//}
-
-
-
-//ONE DIMENSIONAL ARRAY OF STRINGS
-//Console.WriteLine("Select an animal:");
-//Console.ReadLine();
-//List<string> intList = new List<string>();
-//{ 
-//    intList.Add("Bear");
-//    intList.Add("Fox");
-//    intList.Add("Dolphin");
-//    intList.Add("Wolf");
-//    Console.ReadLine();
-//    Console.WriteLine("You chose " + intList[0]);
-//    Console.ReadLine();
-//    Console.WriteLine("You chose " + intList[1]);
-//    Console.ReadLine();
-//    Console.WriteLine("You chose " + intList[2]);
-//    Console.ReadLine();
-//    Console.WriteLine("You chose " + intList[3]);
-//    Console.ReadLine();
 
 
