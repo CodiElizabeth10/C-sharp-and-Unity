@@ -1,0 +1,6 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.pdb
