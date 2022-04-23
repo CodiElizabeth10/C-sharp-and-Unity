@@ -1,0 +1,6 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\Main Method 2\Main Method 2\obj\Debug\Main Method 2.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\Main Method 2\Main Method 2\bin\Debug\Main Method 2.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\Main Method 2\Main Method 2\bin\Debug\Main Method 2.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Main Method 2\Main Method 2\bin\Debug\Main Method 2.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\Main Method 2\Main Method 2\obj\Debug\Main Method 2.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Main Method 2\Main Method 2\obj\Debug\Main Method 2.pdb
