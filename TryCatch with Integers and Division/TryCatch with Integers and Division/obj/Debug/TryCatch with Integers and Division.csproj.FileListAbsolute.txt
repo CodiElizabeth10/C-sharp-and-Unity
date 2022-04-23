@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\TryCatch with Integers and Division\TryCatch with Integers and Division\bin\Debug\TryCatch with Integers and Division.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\TryCatch with Integers and Division\TryCatch with Integers and Division\bin\Debug\TryCatch with Integers and Division.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\TryCatch with Integers and Division\TryCatch with Integers and Division\bin\Debug\TryCatch with Integers and Division.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\TryCatch with Integers and Division\TryCatch with Integers and Division\obj\Debug\TryCatch with Integers and Division.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\TryCatch with Integers and Division\TryCatch with Integers and Division\obj\Debug\TryCatch with Integers and Division.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\TryCatch with Integers and Division\TryCatch with Integers and Division\obj\Debug\TryCatch with Integers and Division.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\TryCatch with Integers and Division\TryCatch with Integers and Division\obj\Debug\TryCatch with Integers and Division.pdb
