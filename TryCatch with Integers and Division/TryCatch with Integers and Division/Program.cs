@@ -43,13 +43,12 @@ namespace TryCatch
                 }
 
                 Console.WriteLine();
-                Console.WriteLine("Let's pick a number and divide each number in the list by that number!");
+                Console.WriteLine("Let's pick a number and divide each number in the list by!");
                 Console.WriteLine();
             listDivide:
                 try
                 {
                     Console.Write("Enter in a number to divide the list by:     ");
-                    Console.ForegroundColor = ConsoleColor.Magenta;
                     int divideNum = Convert.ToInt32(Console.ReadLine());
                     if (divideNum == 0)
                     {
@@ -59,9 +58,7 @@ namespace TryCatch
                     for (int i = 0; i < numList.Count; i++)
                     {
                         double results = (double)numList[i] / divideNum;
-                        Console.ForegroundColor = ConsoleColor.Blue;
                         Console.Write(numList[i] + " divided by " + divideNum + " = ");
-                        Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine(results);
                     }
                 }

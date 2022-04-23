@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
