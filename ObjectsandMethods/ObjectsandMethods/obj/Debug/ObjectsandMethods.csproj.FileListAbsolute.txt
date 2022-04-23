@@ -1,0 +1,6 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\ObjectsandMethods\ObjectsandMethods\obj\Debug\ObjectsandMethods.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\ObjectsandMethods\ObjectsandMethods\bin\Debug\ObjectsandMethods.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\ObjectsandMethods\ObjectsandMethods\bin\Debug\ObjectsandMethods.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\ObjectsandMethods\ObjectsandMethods\bin\Debug\ObjectsandMethods.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\ObjectsandMethods\ObjectsandMethods\obj\Debug\ObjectsandMethods.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\ObjectsandMethods\ObjectsandMethods\obj\Debug\ObjectsandMethods.pdb
