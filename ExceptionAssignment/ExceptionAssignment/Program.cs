@@ -6,51 +6,42 @@ using System.Threading.Tasks;
 
 namespace ExceptionAssignment
 {
-    class Program
-    {
-        static void Main(string[] args)
+
+         class Program
         {
-            try
+            static void Main(string[] args)
             {
-                List<int> intList = new List<int>();
-                intList.Add(400);
-                intList.Add(10);
-                intList.Add(12);
-                Console.WriteLine("Pick a number to divide by 400");
-                intList[0] = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Pick a number to divide by 10");
-                intList[1] = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Pick a number to divide by 12");
-                intList[3] = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Pick a second number.");
-                int numberTwo = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Dividing the two...");
-                int numberThree = intList[0] / numberTwo;
-                Console.WriteLine(intList[0] + " divided by " + numberTwo + " = " + numberThree);
-                int numberFour = intList[1] / numberTwo;
-                Console.WriteLine(intList[1] + " divided by " + numberTwo + " = " + numberFour);
-                int numberFive = intList[2] / numberTwo;
-                Console.WriteLine(intList[2] + " divided by " + numberTwo + " = " + numberFive);
-                Console.ReadLine();
-            }
-            catch (FormatException ex)
-            {
-            }
-            catch (DivideByZeroException ex)
-            {
-                Console.WriteLine("Please don't divide by zero");
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-            finally
-            {
-                Console.ReadLine();
+                try
+                {
+                    Console.WriteLine("Pick a number");
+                    int num0 = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Pick a second number");
+                    int num1 = Convert.ToInt32(Console.ReadLine());
+                    Console.Write("Dividing the two...");
+                    int num2 = num0 / num1;
+                    Console.WriteLine(num0 + " / " + num1 + " = " + num2);
+                }
+                catch (FormatException ex)
+                {
+                    Console.WriteLine("Numbers only, please (: " + ex.Message);
+                    return;     
+                }
+                catch (DivideByZeroException ex)
+                {
+                    Console.WriteLine("Do not divide by ZERO: " + ex.Message);
+                }
+                catch (Exception ex)     
+                {
+                    Console.WriteLine("uhhhh...something went wrong: " + ex.Message);
+                }
+                finally   
+                {
+                    Console.Read();
+                }
 
+                Console.WriteLine("This will not show up if you do a FormatException because of the return statement");
+                Console.Read();
             }
-            Console.ReadLine();
-
         }
     }
-}
+

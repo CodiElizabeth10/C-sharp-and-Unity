@@ -4,3 +4,4 @@ C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionAssignment\ExceptionAssig
 C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.CoreCompileInputs.cache
 C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.exe
 C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionAssignment\ExceptionAssignment\obj\Debug\ExceptionAssignment.csproj.AssemblyReference.cache
