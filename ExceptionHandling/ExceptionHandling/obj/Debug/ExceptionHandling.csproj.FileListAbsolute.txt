@@ -1,0 +1,7 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
