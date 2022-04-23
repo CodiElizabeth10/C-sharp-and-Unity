@@ -1,0 +1,6 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\6PartCSharpAssignment\Part 3 Comparison\Part 3 Comparison\obj\Debug\Part 3 Comparison.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\6PartCSharpAssignment\Part 3 Comparison\Part 3 Comparison\bin\Debug\Part 3 Comparison.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\6PartCSharpAssignment\Part 3 Comparison\Part 3 Comparison\bin\Debug\Part 3 Comparison.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\6PartCSharpAssignment\Part 3 Comparison\Part 3 Comparison\bin\Debug\Part 3 Comparison.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\6PartCSharpAssignment\Part 3 Comparison\Part 3 Comparison\obj\Debug\Part 3 Comparison.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\6PartCSharpAssignment\Part 3 Comparison\Part 3 Comparison\obj\Debug\Part 3 Comparison.pdb

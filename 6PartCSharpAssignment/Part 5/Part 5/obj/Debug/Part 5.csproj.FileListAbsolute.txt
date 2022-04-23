@@ -1,0 +1,2 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\6PartCSharpAssignment\Part 5\Part 5\obj\Debug\Part 5.csproj.AssemblyReference.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\6PartCSharpAssignment\Part 5\Part 5\obj\Debug\Part 5.csproj.CoreCompileInputs.cache
