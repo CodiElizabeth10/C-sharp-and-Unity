@@ -10,7 +10,7 @@ namespace Class__math_od_assignment
     {
         static void Main(string[] args)
         {
-            Mathod mathh = new Mathod();
+            Mathh mathh = new Mathh();
 
             Console.WriteLine("Lets do some math. Enter a random integer:");
             int randNum = Convert.ToInt32(Console.ReadLine());
