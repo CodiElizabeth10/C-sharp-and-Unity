@@ -1,0 +1,6 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\LAMBDA\LAMBDA\bin\Debug\LAMBDA.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\LAMBDA\LAMBDA\obj\Debug\LAMBDA.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\LAMBDA\LAMBDA\obj\Debug\LAMBDA.pdb
