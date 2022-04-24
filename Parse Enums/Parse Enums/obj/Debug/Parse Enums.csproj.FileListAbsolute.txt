@@ -1,0 +1,6 @@
+C:\Users\codif\source\repos\C-sharp-and-Unity\Parse Enums\Parse Enums\bin\Debug\Parse Enums.exe.config
+C:\Users\codif\source\repos\C-sharp-and-Unity\Parse Enums\Parse Enums\bin\Debug\Parse Enums.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Parse Enums\Parse Enums\bin\Debug\Parse Enums.pdb
+C:\Users\codif\source\repos\C-sharp-and-Unity\Parse Enums\Parse Enums\obj\Debug\Parse Enums.csproj.CoreCompileInputs.cache
+C:\Users\codif\source\repos\C-sharp-and-Unity\Parse Enums\Parse Enums\obj\Debug\Parse Enums.exe
+C:\Users\codif\source\repos\C-sharp-and-Unity\Parse Enums\Parse Enums\obj\Debug\Parse Enums.pdb
